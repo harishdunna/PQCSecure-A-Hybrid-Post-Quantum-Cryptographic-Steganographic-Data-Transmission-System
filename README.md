@@ -1,2 +1,4 @@
 # PQCSecure-A-Hybrid-Post-Quantum-Cryptographic-Steganographic-Data-Transmission-System
 PQCSecure is a hybrid security system that combines Post-Quantum Cryptography (PQC) and Steganography for secure data transmission. It uses quantum-resistant encryption algorithms to protect sensitive information and hides encrypted data within images, ensuring confidentiality, integrity, and resistance against future quantum computing threats.
+
+to run the project please download the zip file
